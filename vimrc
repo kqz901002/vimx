@@ -35,7 +35,7 @@ Bundle 'surround.vim'
 Bundle 'tpope/vim-fugitive'
 Bundle 'Lokaltog/vim-powerline'
 Bundle 'mattn/emmet-vim'
-Bundle 'Valloric/YouCompleteMe'
+" Bundle 'Valloric/YouCompleteMe'
 
 filetype plugin indent on     " required!
 "
